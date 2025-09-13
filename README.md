@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/37/1a/c8/371ac843551c2f299675c76d510eab62.gif" alt="Bienvenida" width="800"/>
+</p>
+
+---
+
 # 📝 Gestor de Tareas en Python
 
 El **Gestor de Tareas en Python** es una aplicación de consola diseñada para organizar y administrar pendientes de manera sencilla y eficiente.  

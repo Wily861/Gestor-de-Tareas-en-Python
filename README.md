@@ -163,4 +163,11 @@ def menu():
 
 if __name__ == "__main__":
     menu()
+```
+
+## 📷 Vista previa
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1WHKgzsVDNzIcTWmNezrQXA0tvh3o28ZN" alt="Vista previa del Gestor de Tareas" width="900"/>
+</p>
 
